@@ -1,0 +1,38 @@
+img{ 
+    width: 100px;
+}
+.ys1{
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+.ys2{
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    
+    font-size: 60px;
+    color: brown;
+}
+.ys3{
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.o1{
+    height: 300px;
+    border: 2px solid grey;
+    width: 300px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.o2{
+    width: 50px;
+    
+
+}
+
